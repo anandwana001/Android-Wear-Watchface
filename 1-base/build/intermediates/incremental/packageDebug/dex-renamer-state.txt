@@ -1,0 +1,7 @@
+#Thu May 25 01:08:58 IST 2017
+base.0=D\:\\Nanodegree\\watchface\\1-base\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_48d1db4970e4777fdd349b9d502a37eeb51cf3f4
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\Nanodegree\\watchface\\1-base\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_50c06ed7fc3f3700dea00185bb59de6af1e6f5a7\\classes.dex
+base.1=D\:\\Nanodegree\\watchface\\1-base\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_50c06ed7fc3f3700dea00185bb59de6af1e6f5a7
+file.0=D\:\\Nanodegree\\watchface\\1-base\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_48d1db4970e4777fdd349b9d502a37eeb51cf3f4\\classes.dex

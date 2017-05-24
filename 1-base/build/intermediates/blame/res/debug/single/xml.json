@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\Nanodegree\\watchface\\1-base\\build\\intermediates\\res\\merged\\debug\\xml\\watch_face.xml",
+        "source": "D:\\Nanodegree\\watchface\\1-base\\src\\main\\res\\xml\\watch_face.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Documents\\GitHub\\watchface\\1-base\\build\\intermediates\\res\\merged\\debug\\xml\\watch_face.xml",
+        "source": "C:\\Users\\dell\\Documents\\GitHub\\watchface\\1-base\\src\\main\\res\\xml\\watch_face.xml"
+    }
+]

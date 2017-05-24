@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\dell\.android\build-cache\dd25f41a3fef372d78c75ccd17fb7a73178bb939\output\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="C:\Users\dell\Documents\GitHub\watchface\1-base\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_d41c62e7b9552ed85aacccfb11b727b53ef5603c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dell\.android\build-cache\89030fecf7649f8cce891b825646c7f77692eca1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cddfbb68753c7b1222ffb7af97bfd9ecf413aba7">
+        <dex dex="C:\Users\dell\Documents\GitHub\watchface\1-base\build\intermediates\transforms\dex\debug\folders\1000\10\classes_087b86026cf9a605a20a9c7d823b664e5e4a4005\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Nanodegree\watchface\1-base\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="D:\Nanodegree\watchface\1-base\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_48d1db4970e4777fdd349b9d502a37eeb51cf3f4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Nanodegree\watchface\1-base\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1e40cf93faf042887cea29019d0bb6ca454094ea">
+        <dex dex="D:\Nanodegree\watchface\1-base\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_50c06ed7fc3f3700dea00185bb59de6af1e6f5a7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dell\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="C:\Users\dell\Documents\GitHub\watchface\1-base\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.0.0_9134dd2f45548d0fb8046aad81ea0b57fec1242c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dell\.android\build-cache\dd25f41a3fef372d78c75ccd17fb7a73178bb939\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="C:\Users\dell\Documents\GitHub\watchface\1-base\build\intermediates\transforms\dex\debug\folders\1000\10\classes_46cbd5f9c0243a670c214b882a9d1820aaa53f8f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dell\Documents\GitHub\watchface\1-base\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e3c800729e703b3f3a21f56ab765711705392d6e">
+        <dex dex="C:\Users\dell\Documents\GitHub\watchface\1-base\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_917835f8df514f062985892abca256bb354e8499\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dell\.android\build-cache\e47dc6e534eb5b8e2a769a31a6dd9bfbb04dba56\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="C:\Users\dell\Documents\GitHub\watchface\1-base\build\intermediates\transforms\dex\debug\folders\1000\10\classes_29224161d9e92ce143f05cd0ac3dee18761dc00c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dell\.android\build-cache\5cdba124746b967f6cd5e638d814924d86b03125\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6c74dab42788b458960618238f338d324b6f0656">
+        <dex dex="C:\Users\dell\Documents\GitHub\watchface\1-base\build\intermediates\transforms\dex\debug\folders\1000\10\classes_78fa7ed02c245049b336f8389a7d3d04e434ad76\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dell\.android\build-cache\b93baa534db132fd70ad8c0be82947c2f8c7ad2c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d41792854b7fb173e61c2bfea5044fd47df76114">
+        <dex dex="C:\Users\dell\Documents\GitHub\watchface\1-base\build\intermediates\transforms\dex\debug\folders\1000\10\classes_419620403688d78c2d899ad940457d287a6610ee\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dell\.android\build-cache\3fd6de6477f032cd5cd79e7abaf84a0f5b2eda64\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4d699dd197929286d19b015f4c142b8360f2137">
+        <dex dex="C:\Users\dell\Documents\GitHub\watchface\1-base\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fd775e8f59475ba01ca5f59fb970c89bcb2a8052\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dell\Documents\GitHub\watchface\1-base\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\Users\dell\Documents\GitHub\watchface\1-base\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_aaa8abe522ce8940c43d846b0c8f445ca4e45c44\classes.dex" />
+    </item>
+
+</items>

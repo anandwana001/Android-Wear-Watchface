@@ -1,0 +1,117 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Nanodegree\watchface\1-base\src\main\AndroidManifest.xml:17:1-58:12
+	package
+		ADDED from D:\Nanodegree\watchface\1-base\src\main\AndroidManifest.xml:19:5-44
+		INJECTED from D:\Nanodegree\watchface\1-base\src\main\AndroidManifest.xml
+		INJECTED from D:\Nanodegree\watchface\1-base\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Nanodegree\watchface\1-base\src\main\AndroidManifest.xml
+		INJECTED from D:\Nanodegree\watchface\1-base\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from D:\Nanodegree\watchface\1-base\src\main\AndroidManifest.xml:18:5-51
+	xmlns:android
+		ADDED from D:\Nanodegree\watchface\1-base\src\main\AndroidManifest.xml:17:11-69
+	android:versionCode
+		INJECTED from D:\Nanodegree\watchface\1-base\src\main\AndroidManifest.xml
+		INJECTED from D:\Nanodegree\watchface\1-base\src\main\AndroidManifest.xml
+uses-feature#android.hardware.type.watch
+ADDED from D:\Nanodegree\watchface\1-base\src\main\AndroidManifest.xml:21:5-64
+	android:name
+		ADDED from D:\Nanodegree\watchface\1-base\src\main\AndroidManifest.xml:21:19-61
+uses-permission#com.google.android.permission.PROVIDE_BACKGROUND
+ADDED from D:\Nanodegree\watchface\1-base\src\main\AndroidManifest.xml:24:5-88
+	android:name
+		ADDED from D:\Nanodegree\watchface\1-base\src\main\AndroidManifest.xml:24:22-85
+uses-permission#android.permission.WAKE_LOCK
+ADDED from D:\Nanodegree\watchface\1-base\src\main\AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from D:\Nanodegree\watchface\1-base\src\main\AndroidManifest.xml:25:22-65
+application
+ADDED from D:\Nanodegree\watchface\1-base\src\main\AndroidManifest.xml:27:5-56:19
+MERGED from [com.google.android.support:wearable:2.0.0] C:\Users\dell\.android\build-cache\3fd6de6477f032cd5cd79e7abaf84a0f5b2eda64\output\AndroidManifest.xml:6:5-19
+MERGED from [com.android.support:percent:23.0.1] C:\Users\dell\.android\build-cache\89030fecf7649f8cce891b825646c7f77692eca1\output\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-wearable:10.2.1] C:\Users\dell\.android\build-cache\5cdba124746b967f6cd5e638d814924d86b03125\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-base:10.2.1] C:\Users\dell\.android\build-cache\f99b116b9e2667ffcd5411e660e8802ec5e45d3d\output\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:10.2.1] C:\Users\dell\.android\build-cache\1a65d8ecebc11e6dc9aee42b6f20e685e6941cc0\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.2.1] C:\Users\dell\.android\build-cache\1de7a89f150deb15e52af5149387ac69e4777278\output\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:palette-v7:23.3.0] C:\Users\dell\.android\build-cache\b93baa534db132fd70ad8c0be82947c2f8c7ad2c\output\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:support-v4:24.0.0] C:\Users\dell\.android\build-cache\dd25f41a3fef372d78c75ccd17fb7a73178bb939\output\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from D:\Nanodegree\watchface\1-base\src\main\AndroidManifest.xml:29:9-41
+	tools:ignore
+		ADDED from D:\Nanodegree\watchface\1-base\src\main\AndroidManifest.xml:31:9-46
+	android:allowBackup
+		ADDED from D:\Nanodegree\watchface\1-base\src\main\AndroidManifest.xml:28:9-35
+	android:theme
+		ADDED from D:\Nanodegree\watchface\1-base\src\main\AndroidManifest.xml:30:9-59
+service#com.android.example.watchface.MyWatchFaceService
+ADDED from D:\Nanodegree\watchface\1-base\src\main\AndroidManifest.xml:32:9-51:19
+	android:label
+		ADDED from D:\Nanodegree\watchface\1-base\src\main\AndroidManifest.xml:34:13-51
+	android:permission
+		ADDED from D:\Nanodegree\watchface\1-base\src\main\AndroidManifest.xml:35:13-67
+	android:name
+		ADDED from D:\Nanodegree\watchface\1-base\src\main\AndroidManifest.xml:33:13-47
+meta-data#android.service.wallpaper
+ADDED from D:\Nanodegree\watchface\1-base\src\main\AndroidManifest.xml:36:13-38:54
+	android:resource
+		ADDED from D:\Nanodegree\watchface\1-base\src\main\AndroidManifest.xml:38:17-51
+	android:name
+		ADDED from D:\Nanodegree\watchface\1-base\src\main\AndroidManifest.xml:37:17-57
+meta-data#com.google.android.wearable.watchface.preview
+ADDED from D:\Nanodegree\watchface\1-base\src\main\AndroidManifest.xml:39:13-41:63
+	android:resource
+		ADDED from D:\Nanodegree\watchface\1-base\src\main\AndroidManifest.xml:41:17-60
+	android:name
+		ADDED from D:\Nanodegree\watchface\1-base\src\main\AndroidManifest.xml:40:17-77
+meta-data#com.google.android.wearable.watchface.preview_circular
+ADDED from D:\Nanodegree\watchface\1-base\src\main\AndroidManifest.xml:42:13-44:63
+	android:resource
+		ADDED from D:\Nanodegree\watchface\1-base\src\main\AndroidManifest.xml:44:17-60
+	android:name
+		ADDED from D:\Nanodegree\watchface\1-base\src\main\AndroidManifest.xml:43:17-86
+intent-filter#android.service.wallpaper.WallpaperService+com.google.android.wearable.watchface.category.WATCH_FACE
+ADDED from D:\Nanodegree\watchface\1-base\src\main\AndroidManifest.xml:46:13-50:29
+action#android.service.wallpaper.WallpaperService
+ADDED from D:\Nanodegree\watchface\1-base\src\main\AndroidManifest.xml:47:17-85
+	android:name
+		ADDED from D:\Nanodegree\watchface\1-base\src\main\AndroidManifest.xml:47:25-82
+category#com.google.android.wearable.watchface.category.WATCH_FACE
+ADDED from D:\Nanodegree\watchface\1-base\src\main\AndroidManifest.xml:49:17-102
+	android:name
+		ADDED from D:\Nanodegree\watchface\1-base\src\main\AndroidManifest.xml:49:27-99
+meta-data#com.google.android.gms.version
+ADDED from D:\Nanodegree\watchface\1-base\src\main\AndroidManifest.xml:53:9-55:69
+MERGED from [com.google.android.gms:play-services-basement:10.2.1] C:\Users\dell\.android\build-cache\1de7a89f150deb15e52af5149387ac69e4777278\output\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from D:\Nanodegree\watchface\1-base\src\main\AndroidManifest.xml:55:13-66
+	android:name
+		ADDED from D:\Nanodegree\watchface\1-base\src\main\AndroidManifest.xml:54:13-58
+uses-sdk
+INJECTED from D:\Nanodegree\watchface\1-base\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.google.android.support:wearable:2.0.0] C:\Users\dell\.android\build-cache\3fd6de6477f032cd5cd79e7abaf84a0f5b2eda64\output\AndroidManifest.xml:4:5-72
+MERGED from [com.android.support:percent:23.0.1] C:\Users\dell\.android\build-cache\89030fecf7649f8cce891b825646c7f77692eca1\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.0.1] C:\Users\dell\.android\build-cache\e47dc6e534eb5b8e2a769a31a6dd9bfbb04dba56\output\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-wearable:10.2.1] C:\Users\dell\.android\build-cache\5cdba124746b967f6cd5e638d814924d86b03125\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:10.2.1] C:\Users\dell\.android\build-cache\f99b116b9e2667ffcd5411e660e8802ec5e45d3d\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:10.2.1] C:\Users\dell\.android\build-cache\1a65d8ecebc11e6dc9aee42b6f20e685e6941cc0\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:10.2.1] C:\Users\dell\.android\build-cache\1de7a89f150deb15e52af5149387ac69e4777278\output\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:palette-v7:23.3.0] C:\Users\dell\.android\build-cache\b93baa534db132fd70ad8c0be82947c2f8c7ad2c\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:24.0.0] C:\Users\dell\.android\build-cache\dd25f41a3fef372d78c75ccd17fb7a73178bb939\output\AndroidManifest.xml:21:5-23:54
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:24.0.0] C:\Users\dell\.android\build-cache\dd25f41a3fef372d78c75ccd17fb7a73178bb939\output\AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		INJECTED from D:\Nanodegree\watchface\1-base\src\main\AndroidManifest.xml
+		INJECTED from D:\Nanodegree\watchface\1-base\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Nanodegree\watchface\1-base\src\main\AndroidManifest.xml
+		INJECTED from D:\Nanodegree\watchface\1-base\src\main\AndroidManifest.xml
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:10.2.1] C:\Users\dell\.android\build-cache\f99b116b9e2667ffcd5411e660e8802ec5e45d3d\output\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:10.2.1] C:\Users\dell\.android\build-cache\f99b116b9e2667ffcd5411e660e8802ec5e45d3d\output\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:10.2.1] C:\Users\dell\.android\build-cache\f99b116b9e2667ffcd5411e660e8802ec5e45d3d\output\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:10.2.1] C:\Users\dell\.android\build-cache\f99b116b9e2667ffcd5411e660e8802ec5e45d3d\output\AndroidManifest.xml:19:19-85

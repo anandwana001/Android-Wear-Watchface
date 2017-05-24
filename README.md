@@ -1,7 +1,7 @@
 Android Wear watch face codelab
 ===============================
 
-![Settings Window](https://raw.github.com/{anandwana001}/{Android-Wear-Watchface}/{master}/{screenshots})
+![Settings Window](https://raw.github.com/anandwana001/Android-Wear-Watchface/master/screenshots/device-2017-05-25-003653.png)
 
 In this codelab you'll learn how to create an analog watch face
 and customize it to our needs, keeping best practices for the platform in mind.
